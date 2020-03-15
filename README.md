@@ -1,4 +1,4 @@
-Rat in maze
+RAT IN MAZE PROBLEM
 
 Simple Rat in Maze problem in python programming language.
 
